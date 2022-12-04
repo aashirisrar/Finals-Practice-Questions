@@ -28,7 +28,7 @@ int main()
     }
     else
     {
-        cout << "Printing is not possible";
+        cout << "Printing is not possible in the entered start and length values";
     }
 
     return 0;
